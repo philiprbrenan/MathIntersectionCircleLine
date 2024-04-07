@@ -4,6 +4,9 @@
 #-------------------------------------------------------------------------------
 =pod
 
+=for html <p><a href="https://github.com/philiprbrenan/MathIntersectionCircleLine"><img src="https://github.com/philiprbrenan/MathIntersectionCircleLine/workflows/Test/badge.svg"></a>
+
+
 =encoding utf8
 
 =head1 Name
