@@ -1,3 +1,7 @@
+<div>
+    <p><a href="https://github.com/philiprbrenan/MathIntersectionCircleLine"><img src="https://github.com/philiprbrenan/MathIntersectionCircleLine/workflows/Test/badge.svg"></a>
+</div>
+
 # Name
 
     Math::Intersection::Circle::Line - Find the points at which circles and lines
